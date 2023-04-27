@@ -45,6 +45,7 @@ A curated list of awesome 3D printing resources.
 - [RepRap](http://reprap.org) - Free desktop 3D printer.
 - [Robo3d](https://robo3d.com) - Robo R1, R2 and C2 3D printers.
 - [Sharebot](https://sharebot.it) - Innovative, easy to use 3D printers for professional results.
+- [Snapmaker](https://snapmaker.com/) - 3-in-1 machine with large printing volume.
 - [Sindoh](http://3dprinter.sindoh.com) - Enclosed xyz 3D printer "3DWOX".
 - [Tractus3D](http://tractus3d.com) - Delta 3D printers in 3 sizes.
 - [Trideo3D](http://trideo3d.com) - FDM 3D printers focusing on the experience in 3 sizes.
